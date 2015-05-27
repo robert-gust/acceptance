@@ -16,4 +16,4 @@ mydoc = addParagraph( mydoc, value = "Hello World!", stylename = "Normal" )
 mydoc = addPlot( mydoc, function() barplot( 1:8, col = 1:8 ) )
 
 # write the doc 
-writeDoc( mydoc, file = "examples/word_simple_example.docx")
+writeDoc( mydoc, file = "examples/Gust.docx")
